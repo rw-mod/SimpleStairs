@@ -53,7 +53,7 @@
     <tradeability>None</tradeability>
     <clearBuildingArea>false</clearBuildingArea>
     <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Default2D</drawStyleCategory>
   </ThingDef>
 
   <!--Handrail-->
@@ -99,7 +99,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <fillPercent>0.25</fillPercent>
     <coversFloor>true</coversFloor>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Default2D</drawStyleCategory>
     <tickerType>Never</tickerType>
     <rotatable>false</rotatable>
     <selectable>true</selectable>
@@ -178,7 +178,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <fillPercent>0.25</fillPercent>
     <coversFloor>true</coversFloor>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Default2D</drawStyleCategory>
     <tickerType>Never</tickerType>
     <rotatable>false</rotatable>
     <selectable>true</selectable>
@@ -246,7 +246,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <fillPercent>0.25</fillPercent>
     <coversFloor>true</coversFloor>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Default2D</drawStyleCategory>
     <tickerType>Never</tickerType>
     <rotatable>false</rotatable>
     <selectable>true</selectable>
@@ -319,7 +319,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <fillPercent>0.25</fillPercent>
     <coversFloor>true</coversFloor>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Default2D</drawStyleCategory>
     <tickerType>Never</tickerType>
     <rotatable>false</rotatable>
     <selectable>true</selectable>
@@ -389,7 +389,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <fillPercent>0.25</fillPercent>
     <coversFloor>true</coversFloor>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Default2D</drawStyleCategory>
     <tickerType>Never</tickerType>
     <rotatable>false</rotatable>
     <selectable>true</selectable>
@@ -456,7 +456,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <fillPercent>0.25</fillPercent>
     <coversFloor>true</coversFloor>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Default2D</drawStyleCategory>
     <tickerType>Never</tickerType>
     <rotatable>false</rotatable>
     <selectable>true</selectable>
@@ -532,7 +532,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <fillPercent>0.25</fillPercent>
     <coversFloor>true</coversFloor>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Default2D</drawStyleCategory>
     <tickerType>Never</tickerType>
     <rotatable>false</rotatable>
     <selectable>true</selectable>
@@ -598,7 +598,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <fillPercent>0.25</fillPercent>
     <coversFloor>true</coversFloor>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Default2D</drawStyleCategory>
     <tickerType>Never</tickerType>
     <rotatable>false</rotatable>
     <selectable>true</selectable>
@@ -663,7 +663,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <fillPercent>0.25</fillPercent>
     <coversFloor>true</coversFloor>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Default2D</drawStyleCategory>
     <tickerType>Never</tickerType>
     <rotatable>false</rotatable>
     <selectable>true</selectable>
