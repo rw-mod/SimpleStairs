@@ -9,18 +9,55 @@
 	</supportedVersions>
 	<packageId>gomi.simplestairs</packageId>
 	<description>
-    It is a simple MOD that adds a staircase that looks like there is a difference in height.
+[h1]SimpleStairs (Fork)[/h1]
 
-    UPDATE:1.2.3
-    - Updated for Rimworld 1.5
+This is a [b]fork[/b] of the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2926310517]original "SimpleStairs" mod[/url] for RimWorld, updated to support [b]version 1.6[/b].
 
-    UPDATE:1.2.1
-    - GloomyFurniture part designationCategory change:Structure → OldStyleFurniture
+As of RimWorld 1.6, the [b]placingDraggableDimensions[/b] XML element used in 1.5 is no longer supported. It has been superseded by [b]drawStyleCategory[/b], which should be used to specify the visual and interaction style of placeable objects.
 
-    UPDATE:1.2.0
-    - Add Corner Fence
+[hr]
 
-    version1.2.3
+[h2]📦 Differences from the Original Mod[/h2]
+
+[list]
+[*][b]placingDraggableDimensions[/b] has been replaced by [b]drawStyleCategory[/b] to control object placement and visual behavior.
+[/list]
+
+[hr]
+
+[h2]📌 Notes[/h2]
+
+[list]
+[*]This is [b]not an official update[/b] by the original author.  
+[*]This is a simple update for 1.6 compatibility.  
+[*]The mod should be safe to use in existing saves, but always back up your game just in case.
+[/list]
+
+[hr]
+
+[h2]📜 Credits[/h2]
+
+[list]
+[*]Original mod by [url=https://steamcommunity.com/profiles/76561198109651831/]gomi[/url] ([url=https://steamcommunity.com/sharedfiles/filedetails/?id=2926310517]Workshop page[/url])  
+[*]1.6 update by [url=https://github.com/b0unt9]Bounty[/url]
+[/list]
+
+[hr]
+
+[h2]🔧 Compatibility[/h2]
+
+[list]
+[*]RimWorld 1.5, 1.6  
+[*]Incompatible with the original mod (disable one or the other)
+[/list]
+
+[hr]
+
+[h2]💬 Feedback[/h2]
+
+Issues or suggestions?  
+Feel free to leave a comment or contact me via GitHub:  
+[url=https://github.com/rw-mod/SimpleStairs]github.com/rw-mod/SimpleStairs[/url]
   </description>
   <modIconPath IgnoreIfNoMatchingField="True">SimpleStairsModIcon</modIconPath>
 	<loadAfter>
